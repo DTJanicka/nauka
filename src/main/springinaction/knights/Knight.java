@@ -1,4 +1,4 @@
-package java.springinaction.knights;
+package springinaction.knights;
 
 /**
  * Created by dorota.janicka on 2017-11-15.
